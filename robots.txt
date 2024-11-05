@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocameida.github.io/BeJ/sitemap_index.txt
+Sitemap: https://ocameida.github.io/PWA/sitemap_index.txt
+Sitemap: https://ocameida.github.io/faD/sitemap_index.txt
+Sitemap: https://ocameida.github.io/wal/sitemap_index.txt
